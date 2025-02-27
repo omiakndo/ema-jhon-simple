@@ -1,0 +1,26 @@
+
+.cart{
+    background-color: bisque;
+    padding-left: 60px;
+    padding-top: 180px;
+      position: sticky;
+        top: 0;
+        height: 1200px;
+ }
+
+
+.clear-btn{
+    border-radius: 6px;
+background: #FF3030;
+width: 252px;
+height: 48px;
+flex-shrink: 0;
+}
+.review-btn{
+    margin-top: 18px;
+    width: 252px;
+height: 48px;
+flex-shrink: 0;
+border-radius: 6px;
+background: #F90;
+}
